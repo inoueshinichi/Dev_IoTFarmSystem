@@ -25,3 +25,12 @@
 + 気温センシング
 + GPS(GNSS)
 
+### インフラ
++ AWSクラウド
++ モバイル
++ PCブラウザ
++ エッジPC(Arduino, RaspberryPi etc.)
++ 各センサ
++ Bigbee(広域無線通信規格) 各エッジ(Node)から集約機(Coordinator)へのデータ転送
++ 
+
